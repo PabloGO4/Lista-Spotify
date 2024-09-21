@@ -12,7 +12,7 @@ Este proyecto te permite crear una lista de reproducción en Spotify con las can
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/Billboard-to-Spotify.git
+   git clone https://github.com/PabloGO4/Billboard-to-Spotify.git
 
 Acceder al directorio del proyecto:
 
